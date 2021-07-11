@@ -1,6 +1,14 @@
-# phoneauth
+# Phone Number Authentication
+A flutter application for implementing phone number authentication using firebase in flutter
 
-A new Flutter project.
+#MainScreen
+
+![phoneauth1](https://user-images.githubusercontent.com/66347715/125184783-3fbaf980-e23e-11eb-9935-cf764c3554d0.jpg)
+
+#Screen after phone number authentication
+
+![phoneauth2](https://user-images.githubusercontent.com/66347715/125184799-595c4100-e23e-11eb-8bd4-7c4dfb7c2e35.jpg)
+
 
 ## Getting Started
 
